@@ -2,3 +2,7 @@
 	path = libs/submodule
 	url = https://github.com/anroy90/Tenant-A.git
 	branch = main
+[submodule "libs/submoduleB"]
+	path = libs/submoduleB
+	url = https://github.com/anroy90/Tenant-B.git
+	branch = main
